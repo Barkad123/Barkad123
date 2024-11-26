@@ -7,6 +7,8 @@
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ UNTUK PEMAKAIAN PRIBADI SAJA ////////////////////////////////
 
 
+#EXTM3U billed-msg="BY BARKAD KARNAIN"
+#EXTM3U x-tvg-url="https://stream.hownetwork.xyz/global/epg.xml.gz" refresh=3600 tvg-shift=0
 
 
 
